@@ -8,7 +8,12 @@
 <body>
 
 	<?php 
-	
+		$getal1 =34;
+		$getal2 =20;
+		echo $getal1 + $getal2 . "<br>";
+		echo $getal1 - $getal2 . "<br>";
+		echo $getal1 * $getal2 . "<br>";
+		echo $getal1 / $getal2 . "<br>";
 	?>
 
 </body>

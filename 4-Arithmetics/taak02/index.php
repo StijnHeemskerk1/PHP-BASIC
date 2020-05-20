@@ -8,7 +8,17 @@
 <body>
 
 	<?php 
-	
+		$getal1 = 25;
+		echo $getal1 += 5;
+		echo "<br>";
+		$getal1 = 25;
+		echo $getal1 -= 5;
+		echo "<br>";
+		$getal1 = 25;
+		echo $getal1 *= 5;
+		echo "<br>";
+		$getal1 = 25;
+		echo $getal1 /= 5;
 	?>
 
 </body>
