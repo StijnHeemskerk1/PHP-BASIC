@@ -1,1 +1,12 @@
-
+Er komen 2 pagina's, een home pagina en een producten pagina.
+Op beide pagina's worden een menu en een footer toegevoegd doormiddel van include.
+In het menu komen twee buttons te staan, "Home Page" en "Product Page", die je
+gebruikt om tussen de twee pagina's te switchen. 
+Op de pagina's mogen geen errors staan en worden de functies geladen door een
+include.  
+Op de home pagina kan ik in een input field iets typen en vervolgens op de check
+button ernaast klikken zodat er wordt weergeven wat voor type variable het is.
+Op de producten pagina kan ik 10 producten zien met een nummer, prijs en naam.
+Ook kan ik op de producten pagina het productnummer, mijn leeftijd en een hoeveelheid
+invullen en vervolgens op de "Bereken totaal" knop klik om de totaal prijs te 
+bereken en om te checken of ik korting krijg. 
